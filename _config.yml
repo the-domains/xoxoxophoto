@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0B8B8'
+    - '#803000'
+    - '#707068'
+    - '#386078'
+    - '#000000'
+  brandStrength: 0.487664
+  lightness: 0.421875
+  rhythmicContrast: 0.704769
+  saturation: 0.804276
+cta: {}
+layout_spectrum: 0.346217
+name: xoxoxo
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.314967
